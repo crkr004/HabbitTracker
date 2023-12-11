@@ -14,7 +14,7 @@
     "Habit",
     "tracker"
   ],
-  "author": "pragya",
+  "author": "Rohith
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.9",

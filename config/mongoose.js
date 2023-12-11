@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(`mongodb://127.0.0.1:27017/habits_db`);
+mongoose.connect(`mongodb:MAANGOHabit`);
 
 const db = mongoose.connection;
 

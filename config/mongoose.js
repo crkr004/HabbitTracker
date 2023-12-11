@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(`mongodb:MAANGOHabit`);
+mongoose.connect(process.env.MAANGOHabit);
 
 const db = mongoose.connection;
 
